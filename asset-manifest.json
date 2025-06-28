@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sanklan/static/css/main.7b0d8b3f.css",
-    "main.js": "/Sanklan/static/js/main.06d591f8.js",
+    "main.css": "/Sanklan/static/css/main.681c4b98.css",
+    "main.js": "/Sanklan/static/js/main.7b2642e4.js",
     "index.html": "/Sanklan/index.html",
-    "main.7b0d8b3f.css.map": "/Sanklan/static/css/main.7b0d8b3f.css.map",
-    "main.06d591f8.js.map": "/Sanklan/static/js/main.06d591f8.js.map"
+    "main.681c4b98.css.map": "/Sanklan/static/css/main.681c4b98.css.map",
+    "main.7b2642e4.js.map": "/Sanklan/static/js/main.7b2642e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b0d8b3f.css",
-    "static/js/main.06d591f8.js"
+    "static/css/main.681c4b98.css",
+    "static/js/main.7b2642e4.js"
   ]
 }
